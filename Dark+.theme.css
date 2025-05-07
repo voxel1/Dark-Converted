@@ -16,13 +16,13 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-sec: #fc8686;
+  --darkplus-links: #f3aeae;
   --darkplus-home-icon: url(https://i.imgur.com/RvlNQ7k.png);
  --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 70%;
-  --watermark-filter-contrast: 200%;
+  --watermark-filter-sepia: 0%;
+  --watermark-filter-saturate: 000%;
+  --watermark-filter-hue-rotate: 10deg;
+  --watermark-filter-brightness: 0%;
+  --watermark-filter-contrast: 00%;
 }
